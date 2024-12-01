@@ -1,8 +1,8 @@
 # PowerShell Script for Windows
 
 # Set variables for Obsidian to Hugo copy
-$sourcePath = "D:\obsidian\vault\Blog\posts\"
-$destinationPath = "C:\Users\Exy\Documents\ExyPnozeBlog\content\posts\"
+$sourcePath = "D:\obsidian\vault\Blog\posts"
+$destinationPath = "C:\Users\Exy\Documents\ExyPnozeBlog\content\posts"
 
 # Set Github repo 
 $myrepo = "git@github.com:ExyPnoze/ExyPnozeBlog.git"
